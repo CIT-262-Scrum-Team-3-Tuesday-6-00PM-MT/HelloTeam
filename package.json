@@ -4,7 +4,8 @@
   "description": "NodeJS project",
   "main": "index.js",
   "scripts": {
-    "hello":"node helloworld.js"
+    "hello":"node helloworld.js",
+    "helloTeam":"node helloteam.js"
   },
   "repository": {
     "type": "git",
