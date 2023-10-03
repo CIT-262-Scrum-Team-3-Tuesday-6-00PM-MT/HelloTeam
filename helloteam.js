@@ -4,7 +4,7 @@
 //3 October 2023
 //Hello Team Program
 
-const teamNames = ["Michael"];
+const teamNames = ["Michael", "Cigi"];
 
 for(let i = 0; i < teamNames.length; i++)
 {
