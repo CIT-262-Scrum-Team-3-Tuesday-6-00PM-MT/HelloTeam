@@ -4,6 +4,6 @@
 //3 October 2023
 //Hello Team Program
 
-const teamNames = ["Michael", "Cigi", "Tadeo", "Miguel"];
+const teamNames = ["Michael", "Cigi", "Tadeo", "Miguel", "Riley"];
 
 teamNames.forEach( ( name ) => console.log( `Hello ${name}!` ) );
